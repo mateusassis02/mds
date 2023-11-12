@@ -31,6 +31,12 @@ resource "aws_instance" "web" {
   subnet_id                   = "subnet-0fe11bae0eaa3a68b"
   associate_public_ip_address = true
 
+  # Adiciona um volume EBS de 40GB
+  ebs_block_device {
+    device_name = "/dev/sdb"
+    volume_size = 40
+    volume_type = "gp2" # tipo de volume SSD
+  }
 
 
   # tags para identificação da instância
