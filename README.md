@@ -47,7 +47,7 @@ Ambiente para estudo dos principais framework de um ambiente moderno de dados ut
 
 ## SOLUCIONANDO PROBLEMAS 
 
-### Parar verificar os containers em execução
+### Para verificar os containers em execução
          docker ps 
 
 ### Parar um containers
