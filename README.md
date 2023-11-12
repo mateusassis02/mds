@@ -144,4 +144,4 @@ Ambiente para estudo dos principais framework de um ambiente moderno de dados ut
 
 ## Referencias:
 
-###### O desenvolvimento deste projeto foi fundamentado na referência do trabalho do Professor Fábio Jardim da PUC Minas, no curso de DevOps & Continuous Software Engineering. O código-fonte utilizado como base pode ser encontrado em seu repositório no [GitHub](https://github.com/fabiogjardim/mds.) 
+##### O desenvolvimento deste projeto foi fundamentado na referência do trabalho do Professor Fábio Jardim da PUC Minas, no curso de DevOps & Continuous Software Engineering. O código-fonte utilizado como base pode ser encontrado em seu repositório no [GitHub](https://github.com/fabiogjardim/mds) 
